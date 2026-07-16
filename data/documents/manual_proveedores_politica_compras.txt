@@ -1,0 +1,1297 @@
+Manual de Proveedores y Política de Compras —
+Mercado Central 24h
+Documento Oficial de Operaciones y Abastecimiento
+Versión: 3.0 (Localización México — Expansión LATAM)
+Fecha de Emisión: 16 de junio de 2026
+Alcance: República Mexicana y países de operación en América Latina
+Idioma oficial: Español de México
+---
+TABLA DE CONTENIDOS
+1. [PRESENTACIÓN Y OBJETIVO DEL MANUAL]
+2. [FILOSOFÍA DE COMPRAS Y ABASTECIMIENTO]
+3. [PERFIL DE PROVEEDORES BIENVENIDOS]
+4. [PROCESO DE ALTA DE NUEVOS PROVEEDORES]
+5. [CLASIFICACIÓN DE PROVEEDORES]
+6. [POLÍTICA DE NEGOCIACIÓN Y CONDICIONES COMERCIALES]
+7. [GESTIÓN DE ÓRDENES DE COMPRA]
+8. [RECEPCIÓN DE MERCANCÍAS]
+9. [POLÍTICA DE DEVOLUCIÓN A PROVEEDOR]
+10. [INDICADORES DE DESEMPEÑO DE PROVEEDORES (KPIs)]
+11. [POLÍTICA DE EXCLUSIÓN Y SUSPENSIÓN DE PROVEEDORES]
+12. [CÓDIGO DE ÉTICA PARA PROVEEDORES]
+13. [CONTACTOS DEL EQUIPO DE COMPRAS POR CATEGORÍA]
+14. [DISPOSICIONES FINALES Y VIGENCIA] 
+SECCIÓN 1 — PRESENTACIÓN Y OBJETIVO DEL MANUAL
+1.1 Mensaje de la Dirección de Compras y Abastecimiento
+En nombre de toda la Dirección de Compras y Abastecimiento de Mercado Central 24h,
+extendemos una cordial bienvenida a cada uno de nuestros proveedores actuales y a quienes
+tienen el interés de sumarse a nuestra red de socios comerciales.
+
+---
+
+Mercado Central 24h ha crecido sobre la base de una convicción inquebrantable: la calidad
+que nuestros clientes perciben en el anaquel comienza mucho antes de que el producto llegue
+a nuestras tiendas. Comienza en el campo, en la planta de manufactura, en el almacén del
+distribuidor y en la decisión de cada proveedor de comprometerse con la excelencia. Por ello,
+la relación que mantenemos con nuestra base de proveedores no es transaccional; es una
+alianza estratégica de largo plazo construida sobre la confianza, la transparencia y el beneficio
+mutuo.
+Este manual representa el compromiso institucional de Mercado Central 24h con sus socios
+comerciales: reglas claras, procesos definidos y evaluaciones objetivas. Sabemos que los
+mejores proveedores tienen múltiples opciones de mercado; por eso trabajamos constantemente
+para ser el cliente que más los impulsa a crecer. Ofrecemos puntualidad en los pagos,
+retroalimentación honesta, visibilidad en tienda y el volumen que solo una cadena con presencia
+en toda la República Mexicana y en crecimiento en América Latina puede garantizar.
+Les invitamos a leer este documento con detenimiento, a adoptar sus lineamientos como propios
+y a comunicarse con nuestro equipo de compradores ante cualquier duda. Juntos construiremos
+una cadena de suministro más sólida, más justa y más sustentable.
+Atentamente,
+Dirección de Compras y Abastecimiento
+Mercado Central 24h
+---
+1.2 Historia del Área de Compras de Mercado Central 24h
+Mercado Central 24h nació en la Ciudad de México como un pequeño establecimiento de
+abarrotes con vocación de servicio ininterrumpido. Desde sus primeros años de operación, el
+fundador entendió que la diferencia competitiva de un supermercado que abre las 24 horas
+radica no solo en el horario, sino en la garantía de que los anaqueles estén siempre bien
+surtidos y los productos en perfectas condiciones.
+El área de Compras y Abastecimiento surgió de manera formal en la segunda etapa de expansión
+de la empresa, cuando la cadena alcanzó las 15 sucursales en la Zona Metropolitana del Valle de
+México. En ese momento se tomó la decisión estratégica de centralizar las negociaciones,
+estandarizar los criterios de selección de proveedores y crear un equipo especializado por
+categoría de producto. Esa decisión transformó la operación: los costos de compra se redujeron,
+la calidad de los productos se homologó y el nivel de surtido en tienda mejoró de manera
+significativa.
+
+---
+
+Con el paso de los años y la apertura de sucursales en Guadalajara, Monterrey, Puebla, Mérida y,
+más recientemente, en ciudades de Colombia, Chile y Perú, el área de Compras evolucionó para
+gestionar una red de más de 1,200 proveedores activos, con más de 45,000 referencias (SKUs)
+catalogadas en nuestro sistema ERP. Hoy, el equipo está integrado por compradores
+especializados por categoría, un área de Calidad y Normas, un equipo de Logística Inbound y una
+célula de Inteligencia Comercial que monitorea tendencias de consumo, inflación y precios
+internacionales.
+---
+1.3 Objetivo del Manual y a Quién Va Dirigido
+Objetivo principal: Este manual establece el marco normativo, los procesos operativos y los
+criterios de evaluación que rigen la relación comercial entre Mercado Central 24h y la totalidad
+de sus proveedores de bienes y servicios, con el fin de garantizar la continuidad del
+abastecimiento, la calidad de los productos, el cumplimiento legal y la ética en todas las
+transacciones.
+Destinatarios:
+• Proveedores actuales de Mercado Central 24h en México y en todos los países donde la
+empresa opera.
+• Candidatos a nuevos proveedores que deseen integrarse a nuestra base de suministro.
+• Personal interno del área de Compras, Almacén, Calidad y Finanzas que interactúa con
+proveedores.
+• Auditores internos y externos que revisen los procesos de abastecimiento.
+---
+1.4 Alcance
+El presente manual aplica de manera obligatoria a todos los proveedores que mantengan una
+relación comercial activa con Mercado Central 24h, independientemente de:
+• La categoría de producto o servicio que suministren.
+• El volumen de negocio anual.
+• Su ubicación geográfica: aplica tanto para proveedores con domicilio fiscal en la República
+Mexicana como para aquellos localizados en los países latinoamericanos donde Mercado
+Central 24h mantiene operaciones.
+• La modalidad de entrega: entrega directa en tienda, entrega en centro de distribución o
+entrega bajo esquema de consignación.
+Para proveedores ubicados fuera de México, los lineamientos de este manual deberán
+complementarse con los requisitos legales y fiscales propios del país de origen y del país de
+destino de la mercancía, bajo la supervisión del área de Compras Internacionales.
+---
+
+---
+
+1.5 Definiciones Clave
+Con el fin de garantizar una interpretación uniforme del presente manual, se establecen las
+siguientes definiciones:
+Término Definición
+Proveedor Persona física o moral que suministra bienes o
+servicios a Mercado Central 24h bajo un contrato
+marco o una relación comercial reconocida por el área
+de Compras.
+Comprador Colaborador interno de Mercado Central 24h, adscrito
+al área de Compras y Abastecimiento, responsable de
+gestionar la relación comercial con una o varias
+categorías de proveedores.
+Orden de Compra (OC) Documento oficial emitido por Mercado Central 24h
+que autoriza la adquisición de bienes o servicios a un
+proveedor específico, detallando cantidades, precios,
+condiciones de pago y lugar de entrega. Solo una OC
+vigente y autorizada genera la obligación de pago.
+CFDI (Comprobante Fiscal Digital por Internet) Factura electrónica emitida conforme a los lineamientos
+del SAT, versión 4.0 o la vigente al momento de la
+transacción. Es el único documento fiscal válido para
+tramitar el pago.
+RFC (Registro Federal de Contribuyentes) Clave alfanumérica asignada por el SAT para identificar
+a personas físicas y morales obligadas a tributar en
+México.
+Lead Time Tiempo total transcurrido desde que Mercado Central
+24h emite una Orden de Compra hasta que la
+mercancía es recibida y confirmada en el punto de
+entrega acordado.
+Fill Rate (Nivel de Servicio) Indicador que mide el porcentaje de unidades
+efectivamente entregadas por el proveedor en relación
+con las unidades solicitadas en la Orden de Compra. Se
+expresa en porcentaje.
+Merma Pérdida o reducción en el valor o la cantidad de un
+producto ocasionada por causas como caducidad,
+daño físico, robo, evaporación u otros factores que
+impidan su comercialización al precio de venta regular.
+SKU (Stock Keeping Unit) Código único asignado a cada referencia de producto
+dentro del sistema ERP de Mercado Central 24h para
+su identificación, gestión de inventario y facturación.
+ERP Sistema de Planificación de Recursos Empresariales
+(Enterprise Resource Planning) utilizado por Mercado
+Central 24h para gestionar órdenes de compra,
+inventarios, pagos y evaluación de proveedores.
+COFEPRIS Comisión Federal para la Protección contra Riesgos
+Sanitarios. Autoridad sanitaria en México responsable
+de regular y controlar los establecimientos, productos y
+servicios que pueden afectar la salud de la población.
+
+---
+
+SENASICA Servicio Nacional de Sanidad, Inocuidad y Calidad
+Agroalimentaria. Organismo encargado de proteger los
+recursos agropecuarios de México mediante la
+aplicación de regulaciones sanitarias y de inocuidad.
+---
+SECCIÓN 2 — FILOSOFÍA DE COMPRAS Y ABASTECIMIENTO
+2.1 Principios Rectores
+El área de Compras y Abastecimiento de Mercado Central 24h orienta su gestión diaria a partir de 
+cuatro principios fundamentales que no son negociables:
+Calidad ante todo: Ningún criterio económico justifica la incorporación o mantenimiento de un
+proveedor que no garantice la inocuidad, la calidad organoléptica y el cumplimiento regulatorio
+de sus productos. La salud de nuestros clientes es la prioridad absoluta.
+Precio justo para todas las partes: Buscamos acuerdos comerciales que sean viables para
+Mercado Central 24h y, al mismo tiempo, rentables y justos para nuestros proveedores. Un
+proveedor que no gana lo suficiente no puede invertir en calidad ni en capacidad productiva.
+Las negociaciones agresivas que dañan al proveedor terminan afectando al cliente final.
+Sostenibilidad como estrategia: Las prácticas de abastecimiento responsable no son un gasto;
+son una inversión en la continuidad del negocio. Priorizamos proveedores que demuestren
+prácticas ambientales responsables, uso eficiente del agua y la energía, y reducción de la
+huella de carbono en sus procesos logísticos.
+Apoyo al productor local: Mercado Central 24h tiene una política activa de búsqueda y
+desarrollo de proveedores nacionales, regionales y locales. Creemos en el potencial del
+productor mexicano y nos comprometemos a ser el puente que lo conecte con el consumidor
+urbano.
+---
+2.2 Política de Diversificación de Proveedores
+Con el objetivo de garantizar la continuidad del abastecimiento y reducir el riesgo operativo, 
+Mercado Central 24h aplica la siguiente política de diversificación:
+• Ningún proveedor puede representar más del 40% del volumen de compra de una categoría
+específica. En categorías críticas (lácteos, carnes, bebidas), el límite es del 30%.
+• Se mantendrán como mínimo dos proveedores activos por cada SKU de alta rotación,
+garantizando un proveedor principal y al menos uno de respaldo con contrato vigente.
+• El área de Compras realizará prospección activa de nuevos proveedores al menos dos
+veces por año, con énfasis en regiones con potencial productivo subexplotado.
+
+---
+
+• Ante situaciones de fuerza mayor (desastres naturales, crisis sanitarias, conflictos
+logísticos), se activará el Protocolo de Abastecimiento de Emergencia, que permite la
+incorporación temporal de proveedores alternativos bajo un proceso abreviado de alta.
+---
+2.3 Política de Compras Locales y Regionales
+Mercado Central 24h establece una preferencia estratégica por proveedores mexicanos bajo
+los siguientes criterios de prioridad:
+1. Primer nivel de preferencia: Productores artesanales o empresas pequeñas con domicilio en la
+colonia, municipio o alcaldía donde se ubica la sucursal beneficiaria.
+2. Segundo nivel de preferencia: Proveedores con domicilio en el mismo estado o entidad
+federativa.
+3. Tercer nivel de preferencia: Proveedores nacionales con cobertura en toda la República
+Mexicana.
+4. Cuarto nivel: Importadores o proveedores internacionales, únicamente cuando no exista
+una opción nacional competitiva en términos de calidad y precio.
+Esta política no implica aceptar condiciones de calidad o precio desfavorables. El proveedor
+local tiene la misma obligación de cumplir con todos los estándares establecidos en este
+manual.
+---
+2.4 Política de Compras Sustentables y Responsabilidad Social
+Mercado Central 24h reconoce su responsabilidad como actor económico con impacto social y
+ambiental. Por ello, al evaluar proveedores, se considerarán positivamente los siguientes
+atributos:
+• Uso de empaques reciclables, biodegradables o con contenido reciclado.
+• Certificaciones ambientales como ISO 14001 o equivalentes.
+• Prácticas de comercio justo documentadas.
+• Programas de inclusión laboral de grupos vulnerables.
+• Reducción medible de emisiones de CO₂ en sus operaciones.
+• Participación en programas de economía circular.
+Los proveedores que acrediten estas características podrán recibir puntuación adicional en el 
+proceso de evaluación para la categoría A (Estratégicos), así como visibilidad preferencial en 
+materiales de comunicación interna de Mercado Central 24h.
+---
+
+---
+
+SECCIÓN 3 — PERFIL DE PROVEEDORES BIENVENIDOS
+Mercado Central 24h mantiene una política de puertas abiertas hacia la diversidad de fuentes
+de suministro. Los siguientes perfiles de proveedores son bienvenidos a nuestra red:
+3.1 Fabricantes Directos Nacionales
+Empresas con planta productiva propia en territorio mexicano que elaboran, transforman o
+empacan el producto que ofrecen. Son el perfil preferido por la reducción de intermediarios y
+la trazabilidad directa de la calidad. Incluyen desde grandes grupos industriales hasta
+medianas empresas especializadas.
+3.2 Distribuidores Autorizados
+Empresas que cuentan con acuerdo de distribución exclusiva o no exclusiva de marcas
+reconocidas. Deben presentar carta de autorización vigente del fabricante o importador. Su
+incorporación se justifica cuando el fabricante directo no atiende el volumen o la dispersión
+geográfica requerida.
+3.3 Productores Locales y Artesanales
+Microempresarios, pequeñas empresas o personas físicas con actividad empresarial que
+elaboran productos de manera artesanal o semiindustrial con características diferenciadoras
+(denominación de origen, recetas tradicionales, ingredientes regionales). Se aplica un proceso
+de alta simplificado con requisitos adaptados a su escala, sin sacrificar los estándares de
+inocuidad.
+3.4 Cooperativas y Asociaciones Agrícolas
+Organizaciones de productores del campo mexicano que agrupan a agricultores, ganaderos,
+apicultores o pescadores. Mercado Central 24h tiene un programa especial de vinculación con
+cooperativas que permite contratos de mediano plazo con precios preacordados, brindando
+certeza económica al productor y abastecimiento garantizado a la empresa.
+3.5 Importadores con Certificación
+Empresas que introducen productos al país con todos los permisos de importación vigentes,
+registros sanitarios correspondientes y etiquetado en español conforme a la
+NOM-051-SCFI/SSA1-2010. Deben acreditar que sus proveedores en el extranjero cumplen
+con estándares de inocuidad equivalentes a los mexicanos.
+3.6 Proveedores de Servicios
+
+---
+
+Empresas o personas físicas que suministran servicios indirectos que soportan la operación 
+de Mercado Central 24h, incluyendo: servicios de limpieza y sanitización, mantenimiento de 
+equipos de refrigeración, servicios de empaque y re-etiquetado, agencias de seguridad, y 
+servicios de fumigación. Estos proveedores deben cumplir con los requisitos fiscales y 
+laborales aplicables, además de presentar póliza de seguro de responsabilidad civil vigente.
+---
+SECCIÓN 4 — PROCESO DE ALTA DE NUEVOS PROVEEDORES
+El proceso de alta de proveedores en Mercado Central 24h está diseñado para ser riguroso en
+la evaluación y eficiente en los tiempos. El tiempo estimado total del proceso es de 30 a 45
+días hábiles a partir de la recepción completa de la documentación.
+---
+Paso 1 — Solicitud de Alta (Formulario Oficial)
+El candidato a proveedor debe completar el Formulario de Alta de Proveedor (FAP-001),
+disponible en el portal de proveedores: `proveedores.mercadocentral24h.com`. El formulario
+incluye:
+• Datos generales de la empresa (razón social, RFC, domicilio fiscal, giro comercial).
+• Categorías de productos o servicios a ofrecer.
+• Áreas geográficas de cobertura de entrega.
+• Capacidad de producción o suministro mensual estimada.
+• Datos del representante legal y del ejecutivo de ventas asignado.
+• Cuenta CLABE interbancaria para pagos (junto con estado de cuenta sin saldos).
+---
+Paso 2 — Entrega de Documentación Obligatoria
+Toda la documentación debe ser entregada en formato digital (PDF con firma electrónica
+cuando aplique) a través del portal de proveedores. Los documentos físicos originales podrán
+solicitarse durante la visita técnica.
+# Documento Requisito Aplica a
+1 RFC y Constancia de
+Situación Fiscal
+Vigencia no mayor a 3
+meses (SAT)
+Todos
+2 Opinión de Cumplimiento
+Fiscal Positiva
+Emitida conforme al Art.
+32-D del CFF
+Todos
+3 Comprobante de
+domicilio fiscal y bodegas
+No mayor a 3 meses Todos
+
+---
+
+4 Estado de cuenta
+bancario (sin saldos)
+Para validación de cuenta
+CLABE
+Todos
+5 Aviso de Funcionamiento
+ante COFEPRIS
+Vigente Alimentos, bebidas,
+higiene
+6 Certificado de Buenas
+Prácticas de Manufactura
+(BPM)
+Vigente Alimentos procesados
+7 Registro de
+Establecimiento ante
+SENASICA
+Vigente Cárnicos, lácteos,
+productos de origen
+animal
+8 Acta Constitutiva y Poder
+Notarial del
+Representante Legal
+Copia certificada Personas morales
+9 Referencias comerciales Mínimo 3, con datos de
+contacto verificables
+Todos
+10 Estados financieros del
+último ejercicio fiscal
+Firmados por contador
+externo
+Proveedores con ventas
+anuales > $5M MXN
+11 Póliza de Seguro de
+Responsabilidad Civil
+Vigente, con cobertura
+mínima de $2M MXN
+Todos
+12 Carta de Autorización del
+Fabricante
+En papel membretado del
+fabricante
+Distribuidores
+autorizados
+13 Certificado de
+importación y registro
+sanitario
+Vigente Importadores
+---
+Paso 3 — Visita Técnica a Instalaciones del Proveedor
+Una vez validada la documentación, el equipo de Calidad y Normas de Mercado Central 24h
+programará una visita técnica a las instalaciones productivas o de almacenamiento del
+candidato. Esta visita tiene como objetivo:
+• Verificar las condiciones de higiene e inocuidad de la planta o bodega.
+• Confirmar la capacidad de producción o almacenamiento declarada.
+• Revisar los procesos de control de calidad internos del proveedor.
+• Evaluar las condiciones laborales y de seguridad de los trabajadores.
+• Verificar que las prácticas ambientales declaradas sean reales.
+El resultado de la visita se documenta en el Reporte de Visita Técnica (RVT-001), que formará
+parte del expediente del proveedor. En caso de detectar no conformidades subsanables, el
+proveedor tendrá un plazo de 15 días hábiles para presentar un plan de acción correctivo.
+---
+
+---
+
+Paso 4 — Evaluación y Dictamen del Comité de Compras
+El Comité de Compras, integrado por el Director de Compras, el Gerente de Categoría
+correspondiente, el Jefe de Calidad y un representante de Finanzas, revisará el expediente
+completo del candidato y emitirá uno de los siguientes dictámenes:
+• Aprobado: El proveedor cumple todos los requisitos y puede proceder a la firma del
+contrato.
+• Aprobado con condiciones: El proveedor es viable pero debe cumplir requisitos
+adicionales en un plazo definido.
+• Diferido: La evaluación se pospone hasta que el proveedor solucione deficiencias
+identificadas.
+• Rechazado: El candidato no cumple con los estándares mínimos y no puede continuar el
+proceso.
+---
+Paso 5 — Firma de Contrato Marco y Alta en Sistema ERP
+Los proveedores con dictamen aprobado procederán a la firma del Contrato Marco de
+Proveeduría, que incluye:
+• Condiciones generales de compraventa.
+• Acuerdo de confidencialidad.
+• Política de calidad y causas de rechazo.
+• Condiciones de pago aceptadas.
+• Cláusula anticorrupción.
+• Código de Ética del Proveedor (Sección 12 de este manual).
+Simultáneamente, el área de Sistemas realizará el alta del proveedor en el ERP corporativo,
+asignando un número de proveedor único que será la referencia para todas las transacciones
+futuras.
+---
+Paso 6 — Pedido Piloto y Evaluación de Resultados
+Todo proveedor nuevo deberá completar satisfactoriamente un pedido piloto antes de
+integrarse de manera regular al programa de compras. El pedido piloto evalúa:
+• Cumplimiento del Lead Time pactado.
+• Calidad y presentación del producto entregado.
+• Correcta emisión del CFDI conforme a los datos del ERP.
+• Comportamiento del proveedor durante el proceso de recepción.
+El resultado del pedido piloto determina la categoría inicial del proveedor (ver Sección 5) y
+establece la línea base para los KPIs de seguimiento.
+
+---
+
+---
+SECCIÓN 5 — CLASIFICACIÓN DE PROVEEDORES
+Mercado Central 24h clasifica a sus proveedores en tres categorías, determinadas por una
+evaluación objetiva de criterios cuantitativos y cualitativos. Esta clasificación se revisa
+semestralmente (enero y julio de cada año).
+5.1 Descripción de Categorías
+Categoría A — Proveedores Estratégicos
+Son los aliados más importantes de la cadena de suministro. Se caracterizan por suministrar 
+productos críticos para la operación diaria, manejar los mayores volúmenes de negocio y 
+mantener una relación comercial de largo plazo basada en la confianza mutua. La empresa 
+dedica recursos especiales a gestionar y desarrollar estas relaciones.
+Criterios de clasificación:
+• Facturación anual con Mercado Central 24h superior a $10,000,000 MXN.
+• Fill Rate sostenido por encima del 97% durante los últimos 6 meses.
+• Productos clasificados como de alta rotación o difícil sustitución.
+• Historial de relación comercial mínimo de 2 años sin incidentes graves.
+Categoría B — Proveedores Importantes
+Proveedores con volumen medio y productos diferenciados que enriquecen el surtido de las
+tiendas. Su gestión es activa aunque con menor intensidad que la Categoría A. Tienen
+potencial de crecimiento hacia la categoría superior.
+Criterios de clasificación:
+• Facturación anual con Mercado Central 24h entre $1,000,000 y $10,000,000 MXN.
+• Fill Rate sostenido entre 93% y 97%.
+• Productos con rotación media o alta en categorías específicas.
+Categoría C — Proveedores Complementarios
+Proveedores de nicho, estacionales o especializados cuya aportación al surtido es valiosa
+pero de menor impacto en el volumen total. Incluye productores artesanales, proveedores de
+temporada y nuevos proveedores en periodo de desarrollo.
+Criterios de clasificación:
+• Facturación anual inferior a $1,000,000 MXN.
+• Productos de nicho, estacionales o con demanda específica.
+• Proveedores en periodo de prueba (primeros 6 meses).
+---
+
+---
+
+5.2 Tabla de Beneficios y Condiciones por Categoría
+Condición / Beneficio Categoría A
+(Estratégico)
+Categoría B (Importante) Categoría C
+(Complementario)
+Plazo de pago estándar 30 días 45 días 60 días
+Acceso a descuento por
+pronto pago
+Sí (hasta 3%) Sí (hasta 2%) Sí (hasta 1%)
+Reunión de revisión
+comercial
+Mensual Trimestral Semestral
+Scorecard de desempeño Mensual Trimestral Semestral
+Visibilidad en material
+publicitario
+Prioritaria Cuando aplique No incluida
+Participación en eventos
+de proveedores
+Asiento preferencial Sí Por invitación
+Apoyo en desarrollo de
+nuevos productos
+Sí, activo Por solicitud No incluido
+Garantía de volumen
+mínimo mensual
+Sí, en contrato No garantizado No garantizado
+Asesoría en optimización
+logística
+Incluida Por solicitud No incluida
+---
+5.3 Proceso de Promoción entre Categorías
+La promoción de categoría C a B, o de B a A, se evalúa en las revisiones semestrales del
+Comité de Compras. Para ser promovido, el proveedor debe:
+1. Cumplir los criterios de facturación y Fill Rate de la categoría superior durante al menos dos
+trimestres consecutivos.
+2. No haber registrado ninguna causa de suspensión temporal en los últimos 12 meses.
+3. Contar con la recomendación positiva del Comprador responsable de la categoría.
+4. Presentar un plan de crecimiento de capacidad alineado a los requerimientos de Mercado
+Central 24h.
+La degradación de categoría puede ocurrir en cualquier momento si el proveedor incumple de 
+manera sostenida los KPIs o incurre en faltas al Código de Ética.
+---
+SECCIÓN 6 — POLÍTICA DE NEGOCIACIÓN Y CONDICIONES
+COMERCIALES
+
+---
+
+6.1 Principios de Negociación
+Las negociaciones comerciales en Mercado Central 24h se rigen por tres principios
+fundamentales:
+• Ganar-ganar: El objetivo no es extraer el mayor descuento posible, sino construir acuerdos
+que sean sostenibles y beneficiosos para ambas partes a lo largo del tiempo.
+• Transparencia: Los criterios de evaluación, los precios de referencia y las condiciones del
+mercado se comparten abiertamente con el proveedor para facilitar un diálogo informado.
+• Confidencialidad: Toda información comercial intercambiada durante una negociación
+(precios, volúmenes, estrategias) es estrictamente confidencial y no podrá ser divulgada a
+terceros.
+---
+6.2 Condiciones de Pago Estándar
+El plazo de pago se inicia a partir de la fecha de recepción y validación del CFDI en el sistema
+ERP de Mercado Central 24h. Factura sin OC de referencia válida no será procesada.
+Categoría de Proveedor Plazo de Pago Estándar Observaciones
+A — Estratégico 30 días naturales Incluye productos de alta rotación
+B — Importante 45 días naturales Estándar general
+C — Complementario 60 días naturales Aplica también a proveedores
+nuevos
+Perecederos de alta rotación 7 a 15 días naturales Independientemente de la
+categoría
+Proveedores de servicios 30 días naturales Contra entrega de evidencia de
+servicio
+---
+6.3 Política de Descuento por Pronto Pago
+Mercado Central 24h ofrece a todos sus proveedores la opción de liquidación anticipada bajo
+el siguiente esquema:
+• Pago a 10 días: 2% de descuento sobre el total neto de la factura (esquema "2/10 neto 30").
+• Pago a 15 días: 1.5% de descuento sobre el total neto de la factura.
+• Pago a 7 días (perecederos): 0.5% de descuento adicional.
+El proveedor debe solicitar expresamente el pronto pago a través del portal de proveedores
+antes de que venza el plazo del descuento. Mercado Central 24h no aplica descuentos por
+pronto pago de manera retroactiva.
+---
+
+---
+
+6.4 Bonificaciones Comerciales
+Adicionalmente a las condiciones de pago, Mercado Central 24h puede negociar las siguientes
+bonificaciones, que deberán quedar documentadas en el contrato o en un anexo comercial
+firmado por ambas partes:
+• Descuento por volumen progresivo: Escala de descuentos aplicable cuando el proveedor
+alcanza umbrales de volumen predefinidos en el contrato.
+• Apoyo en publicidad (Trade Marketing): Contribución económica del proveedor para
+financiar activaciones en punto de venta, catálogos digitales, pantallas en tienda o espacios
+preferenciales en anaquel.
+• Exclusividad de producto: En casos donde Mercado Central 24h acuerde ser el único
+canal de distribución de un producto específico, se negociarán condiciones especiales de
+precio y volumen garantizado.
+• Rappel anual: Descuento retroactivo calculado sobre el volumen de compra total del año,
+pagadero en el primer trimestre del año siguiente.
+---
+6.5 Política de Precio Firme vs. Precio Variable
+• Precio firme: Los precios pactados en el contrato marco se mantienen sin variación
+durante el período de vigencia acordado (generalmente 12 meses). Aplicable a productos
+industrializados con baja volatilidad de costos.
+• Precio variable indexado: Para productos agropecuarios y materias primas sujetas a
+variaciones de mercado, se puede acordar un precio base con mecanismo de ajuste
+indexado a un indicador oficial (INPC, Banxico, precio de referencia internacional). Las
+reglas de ajuste deben quedar explícitas en el contrato.
+Cualquier modificación de precios fuera del mecanismo contractual requiere aprobación
+previa del Gerente de Categoría y del Director de Compras, y debe notificarse con al menos 30
+días de anticipación.
+---
+6.6 Calendario Anual de Negociaciones por Categoría
+Mes Categoría en Negociación Tipo de Revisión
+Enero Abarrotes y Bebidas No Alcohólicas Renovación anual de contrato
+Febrero Lácteos y Refrigerados Revisión de precios variables
+Marzo Frutas y Verduras (nacionales) Revisión de precios de temporada
+Abril Carnes y Embutidos Renovación semestral
+
+---
+
+Mayo Limpieza, Higiene y Cuidado
+Personal
+Renovación anual de contrato
+Junio Panadería y Tortillería Revisión de insumos (harina, maíz)
+Julio Revisión semestral de KPIs (todas
+las categorías)
+Ajuste de categorías A, B, C
+Agosto Bebidas Alcohólicas Negociación de apoyos para
+temporada decembrina
+Septiembre Electrónica, Bazar y Temporada
+Navideña
+Pedidos especiales de fin de año
+Octubre Proveedores de Servicios Renovación de contratos de
+servicio
+Noviembre Importaciones y Proveedores
+Internacionales
+Revisión de tipos de cambio y
+tarifas
+Diciembre Cierre de año / Evaluación global
+anual
+Planificación del siguiente ejercicio
+SECCIÓN 7 — GESTIÓN DE ÓRDENES DE COMPRA
+7.1 Roles Autorizados para Emitir una Orden de Compra
+La emisión de una Orden de Compra es un acto formal con implicaciones financieras y legales. 
+Solo los siguientes roles tienen autorización para generarla en el sistema ERP:
+Rol Límite de autorización individual
+Comprador de Categoría Hasta $150,000 MXN por OC
+Gerente de Categoría / Compras Hasta $500,000 MXN por OC
+Director de Compras y Abastecimiento Hasta $2,000,000 MXN por OC
+Director General (o CFO) Sin límite superior
+Toda OC que supere los límites del nivel inferior requiere la firma digital de aprobación del nivel 
+superior en el ERP antes de ser enviada al proveedor.
+---
+7.2 Proceso de Generación en Sistema ERP
+1. El Comprador accede al módulo de Compras del ERP con su usuario y contraseña
+corporativa.
+2. Selecciona el proveedor por número de proveedor único.
+
+---
+
+3. Carga el/los SKU(s) con las cantidades requeridas (el sistema valida automáticamente que el
+SKU esté activo y asociado al proveedor).
+4. El sistema propone el precio unitario del último contrato vigente. El Comprador puede
+modificarlo solo si tiene el nivel de autorización correspondiente.
+5. Se define la condición de pago y el lugar de entrega (centro de distribución o tienda
+específica).
+6. La OC pasa por el flujo de aprobaciones electrónicas según los límites de la tabla anterior.
+7. Una vez aprobada, el sistema envía la OC automáticamente al correo electrónico registrado del
+proveedor y genera el folio único de seguimiento.
+---
+7.3 Campos Obligatorios de una Orden de Compra
+Toda OC emitida por Mercado Central 24h debe contener obligatoriamente los siguientes
+campos. Una OC incompleta no será válida para efectos de entrega ni de pago:
+• Número de folio único de OC
+• Fecha de emisión y fecha de vencimiento de la OC
+• Número de proveedor y razón social completa
+• RFC del proveedor
+• Código SKU y descripción completa de cada producto
+• Unidad de medida (pieza, caja, kilogramo, litro)
+• Cantidad solicitada por SKU
+• Precio unitario pactado (sin IVA)
+• IVA desglosado y total de la OC
+• Condición de pago acordada
+• Fecha solicitada de entrega y ventana horaria
+• Lugar de entrega (dirección completa del centro de distribución o tienda)
+• Nombre y firma digital del Comprador autorizado
+• Nombre y firma digital del nivel de aprobación correspondiente
+---
+7.4 Modificación y Cancelación de OC
+• Modificación: Solo puede realizarse antes de que el proveedor haya iniciado la
+preparación del pedido (confirmada por correo electrónico). Requiere aprobación del mismo
+nivel que autorizó la OC original. Se genera una nueva versión de la OC con el sufijo
+"-MOD1", "-MOD2", etc.
+
+---
+
+• Cancelación: Debe notificarse al proveedor con al menos 24 horas de anticipación a la
+fecha de entrega programada. Si la cancelación se realiza con menos de 24 horas de
+anticipación y el proveedor ya incurrió en costos de preparación y traslado, Mercado
+Central 24h reconocerá un cargo por cancelación tardía conforme a lo pactado en el
+contrato marco.
+---
+7.5 Órdenes de Emergencia
+En situaciones excepcionales que requieran abastecimiento urgente (desabasto repentino,
+producto de alta demanda no previsto, evento especial), se aplica el Proceso Abreviado de OC
+de Emergencia:
+1. El Comprador notifica verbalmente o por mensajería oficial al Gerente de Compras la
+necesidad urgente.
+2. El Gerente de Compras autoriza verbalmente con seguimiento por correo electrónico
+institucional (sirve como evidencia de autorización).
+3. El proveedor puede iniciar la preparación con la confirmación por correo electrónico.
+4. La OC formal debe registrarse en el ERP dentro de las 4 horas hábiles siguientes a la
+autorización.
+5. El monto máximo de una OC de Emergencia sin OC previa en ERP es de $50,000 MXN.
+Montos superiores requieren OC en sistema antes de la entrega.
+SECCIÓN 8 — RECEPCIÓN DE MERCANCÍAS
+8.1 Ventana de Citas por Categoría
+Las entregas deben programarse con al menos 48 horas de anticipación a través del portal de
+proveedores. Se asignará una cita con hora de inicio y hora límite de arribo. El incumplimiento
+de la ventana de cita impacta directamente en el indicador de Puntualidad de Entrega (KPI).
+Categoría de Producto Ventana de Cita Notas
+Perecederos (Frutas, Verduras,
+Lácteos)
+04:00 AM a 08:00 AM Requiere verificación de
+temperatura obligatoria
+Carnes, Embutidos y Mariscos 04:00 AM a 07:00 AM Prioridad máxima por cadena de
+frío crítica
+Panadería y Tortillería 05:00 AM a 09:00 AM Entrega diaria conforme a pedido
+del día anterior
+Abarrotes y Bebidas 06:00 AM a 12:00 PM Mayor ventana por volumen de
+descarga
+
+---
+
+Limpieza e Higiene Personal 09:00 AM a 01:00 PM —
+Electrónica, Bazar y Textil 10:00 AM a 02:00 PM Requiere espacio especial de
+verificación
+Proveedores de Servicios Por agenda previa Coordinar con el área solicitante
+---
+8.2 Documentación Exigida al Proveedor para la Entrega
+El chofer o representante del proveedor debe presentar en el muelle de recepción la siguiente
+documentación en papel o en formato digital verificable. Sin esta documentación, la descarga
+no puede iniciar:
+1. CFDI timbrado (Factura Electrónica): Vigente, emitida a nombre de Mercado Central 24h con
+RFC correcto, uso de CFDI G01, método de pago PPD y forma de pago 99.
+2. Remisión / Albarán de entrega: Documento del proveedor que detalla los productos,
+cantidades y condiciones de la entrega.
+3. Orden de Compra referenciada: Número de folio de la OC de Mercado Central 24h que
+autoriza esta entrega. Sin OC válida no se acepta la mercancía.
+4. Certificado de calidad o análisis: Para productos que lo requieran por su naturaleza
+(cárnicos, lácteos, productos importados, suplementos).
+5. Registro de temperatura durante el transporte: Para productos de cadena de frío; se exige el
+reporte del registrador de temperatura (datalogger) del viaje.
+---
+8.3 Checklist de Inspección en Muelle de Recepción
+El personal de recepción ejecutará el siguiente checklist para cada entrega. Cualquier punto
+marcado como "No Conforme" puede ser causa de rechazo total o parcial de la mercancía:
+CHECKLIST DE RECEPCIÓN — MERCADO CENTRAL 24H
+ Documentación completa: CFDI, Remisión, OC referenciada y certificados aplicables
+presentes.
+ Validación del CFDI ante el SAT: Verificación en el portal SICOFI o mediante el ERP
+corporativo que el timbre fiscal sea auténtico y la razón social y RFC del proveedor coincidan
+exactamente con el expediente.
+ Verificación de cantidades vs. OC: Conteo físico de unidades, cajas o pallets entregados
+contra las cantidades autorizadas en la OC. Las diferencias de más del 5% (por exceso o
+defecto) son causa de rechazo parcial.
+ Revisión de fechas de caducidad: Todo producto entregado debe tener al menos el 70% de
+su vida útil total restante al momento de la recepción. Ejemplo: un producto con 12 meses de
+caducidad total debe entregarse con al menos 8.4 meses de vigencia.
+
+---
+
+ Verificación de temperatura en productos de cadena de frío:
+- Productos refrigerados: entre 0°C y 4°C.
+- Productos congelados: máximo -18°C (si se entrega por encima de esta temperatura, el
+rechazo es inmediato e inapelable).
+ Estado del embalaje: Cajas sin golpes, humedad excesiva o deformaciones que
+comprometan la integridad del producto. Empaques primarios sin rupturas, sellos de
+seguridad intactos.
+ Etiquetado conforme: Verificación de que el etiquetado cumple con la
+NOM-051-SCFI/SSA1-2010 (información nutrimental, ingredientes, fecha de caducidad, país
+de origen, advertencias).
+ Condición del vehículo de transporte: El área de transporte del proveedor debe estar limpia y
+libre de contaminantes. Productos alimenticios no pueden transportarse junto con productos
+químicos o de limpieza.
+---
+8.4 Tiempos Máximos de Descarga
+Tipo de Vehículo Tiempo Máximo de Descarga
+Motocicleta / Camioneta de reparto (hasta 500 kg) 15 minutos
+Camión ligero (hasta 3.5 toneladas) 45 minutos
+Camión de carga media (3.5 a 8 toneladas) 60 minutos
+Camión de carga pesada / Tráiler 90 minutos
+El tiempo se contabiliza desde que el vehículo ingresa al área de maniobras del muelle. Los 
+retrasos atribuibles al proveedor (falta de documentación, conteo incorrecto de producto) se 
+registran como incumplimiento de puntualidad.
+8.5 Proceso de Cierre de Recepción
+Una vez completada la inspección satisfactoriamente:
+1. El personal de recepción sella y firma el albarán del proveedor con el sello oficial de recepción
+de Mercado Central 24h, indicando la fecha, hora, nombre del receptor y observaciones si las
+hubiere.
+2. Se registra la recepción en el sistema ERP, lo que genera automáticamente el aviso al área
+de Cuentas por Pagar para iniciar el proceso de validación de la factura.
+3. El producto es trasladado al área de almacenaje correspondiente con su etiqueta interna de
+ubicación.
+
+---
+
+4. Cualquier diferencia, rechazo parcial o condición especial queda documentada en el Reporte
+de Recepción (RR-001), del que se entrega copia al representante del proveedor.
+SECCIÓN 9 — POLÍTICA DE DEVOLUCIÓN A PROVEEDOR
+9.1 Causas de Devolución
+Mercado Central 24h procederá a la devolución total o parcial de mercancía ante cualquiera de las 
+siguientes causas:
+Causa Descripción
+Producto dañado Empaque roto, producto golpeado, derramado o con
+evidencia de contaminación.
+Fecha de caducidad corta Menos del 70% de vida útil restante al momento de la
+recepción o del descubrimiento en tienda.
+Temperatura incorrecta Producto refrigerado o congelado fuera del rango de
+temperatura aceptable al momento de la entrega.
+Diferencia de precio El precio de la factura no coincide con el precio
+pactado en la OC.
+Producto no pedido SKU o referencia no contemplada en la OC
+correspondiente.
+Exceso de cantidad Unidades entregadas superiores al 105% de la cantidad
+de la OC (sin autorización previa).
+Incumplimiento de especificaciones Producto que no coincide con la ficha técnica aprobada
+(peso, tamaño, sabor, formulación).
+Etiquetado incorrecto Falta de información obligatoria conforme a la
+NOM-051 o etiquetado en idioma distinto al español.
+---
+9.2 Proceso de Devolución Inmediata (en el Muelle de Recepción)
+Cuando la causa de devolución se detecta durante el proceso de recepción:
+1. El personal de recepción identifica y separa físicamente los productos a devolver.
+2. Se registra la causa específica en el Reporte de Recepción (RR-001) y se solicita la firma del
+representante del proveedor como constancia.
+3. El sistema ERP registra el rechazo y ajusta automáticamente la cantidad recibida vs. la OC.
+4. El producto rechazado permanece en el área de cuarentena del muelle hasta que el proveedor
+lo retire, con un plazo máximo de 72 horas.
+
+---
+
+5. Si el proveedor no recoge la mercancía en 72 horas, Mercado Central 24h procederá a su
+destrucción o disposición final con cargo administrativo al proveedor conforme al contrato
+marco.
+---
+9.3 Proceso de Devolución Diferida (Producto Detectado en Tienda)
+Cuando la causa de devolución se detecta después de que el producto ya ingresó al almacén o
+piso de venta:
+1. El personal de tienda o almacén reporta el problema al Jefe de Tienda a través del sistema ERP
+(módulo de incidencias).
+2. El Jefe de Tienda valida la incidencia y la escala al Comprador de Categoría correspondiente.
+3. El Comprador contacta al proveedor dentro de las 24 horas hábiles siguientes al reporte.
+4. Se acuerda la modalidad de resolución: reposición del producto o nota de crédito, a elección
+del proveedor conforme al contrato.
+5. Se genera la Nota de Devolución (ND) en el ERP, que el proveedor debe timbrar como CFDI
+de egreso para efectos fiscales.
+---
+9.4 Política de Crédito o Reposición
+El proveedor puede elegir entre dos modalidades de resolución de una devolución:
+• Reposición: Entrega de producto equivalente en condiciones correctas dentro del plazo
+acordado (máximo 48 horas para perecederos, 5 días hábiles para productos no perecederos).
+• Nota de crédito (CFDI de egreso): El proveedor emite un CFDI de egreso por el monto del
+producto devuelto, el cual será aplicado contra la siguiente factura pendiente de pago o
+liquidado como saldo a favor.
+El historial de devoluciones es un indicador de desempeño (KPI: Tasa de Rechazo) que impacta 
+directamente en la evaluación semestral del proveedor y en la posibilidad de promoción o 
+degradación de categoría.
+---
+SECCIÓN 10 — INDICADORES DE DESEMPEÑO DE PROVEEDORES
+(KPIs)
+La evaluación objetiva y periódica del desempeño de los proveedores es un pilar fundamental del 
+modelo de gestión de Mercado Central 24h. Los KPIs no son instrumentos de penalización, sino 
+herramientas de mejora continua y diálogo constructivo.
+10.1 Tabla Completa de KPIs
+
+---
+
+KPI Definición Fórmula de Cálculo Meta Frecuencia
+Fill Rate (Nivel de
+Servicio)
+% de unidades
+entregadas vs.
+solicitadas en OC
+(Unidades
+entregadas /
+Unidades
+solicitadas) × 100
+≥ 95% Mensual
+Puntualidad de
+Entrega (On-Time
+Delivery)
+% de entregas
+realizadas dentro
+de la ventana de
+cita programada
+(Entregas a tiempo
+/ Total entregas) ×
+100
+≥ 90% Mensual
+Tasa de Rechazo
+en Recepción
+% de unidades
+rechazadas por
+calidad,
+temperatura o
+documentación
+(Unidades
+rechazadas /
+Unidades
+recibidas) × 100
+≤ 2% Mensual
+Tasa de Queja de
+Calidad Post-Venta
+% de unidades con
+reclamación de
+calidad detectadas
+en tienda o por el
+consumidor
+(Unidades con
+reclamación /
+Unidades vendidas)
+× 100
+≤ 1% Mensual
+Tiempo de
+Respuesta ante
+Reclamaciones
+Horas hábiles
+transcurridas entre
+la notificación de
+una incidencia y la
+respuesta formal
+del proveedor
+Promedio de horas
+de respuesta en el
+período
+≤ 48 horas Mensual
+Exactitud de
+Facturación (CFDI)
+% de CFDI emitidos
+sin errores que
+requirieran
+corrección o
+cancelación
+(CFDI correctos /
+Total CFDI
+emitidos) × 100
+≥ 98% Mensual
+Lead Time
+promedio
+Días calendario
+transcurridos entre
+emisión de OC y
+recepción de
+mercancía
+Promedio de días
+del período
+Según contrato Trimestral
+Evaluación Global
+de Desempeño
+Índice ponderado
+de todos los KPIs
+anteriores
+Ponderación
+definida por
+categoría
+≥ 85 puntos Trimestral
+---
+10.2 Ponderación por Categoría de Proveedor
+KPI Ponderación Cat. A Ponderación Cat. B Ponderación Cat. C
+Fill Rate 30% 30% 25%
+Puntualidad de Entrega 20% 20% 20%
+Tasa de Rechazo 20% 20% 25%
+Calidad Post-Venta 15% 15% 15%
+
+---
+
+Tiempo de Respuesta 10% 10% 10%
+Exactitud de Facturación 5% 5% 5%
+Total 100% 100% 100%
+---
+10.3 Proceso de Retroalimentación al Proveedor (Scorecard Trimestral)
+Cada trimestre, el Comprador de Categoría envía al proveedor su Scorecard de Desempeño a
+través del portal de proveedores. El Scorecard incluye:
+• Resultados numéricos de cada KPI en el período evaluado.
+• Comparativo vs. el trimestre anterior.
+• Comparativo vs. la meta establecida en el contrato.
+• Posición relativa del proveedor dentro de su categoría (sin revelar datos de competidores).
+• Comentarios cualitativos del Comprador.
+• Plan de acción recomendado si algún KPI está por debajo de la meta.
+El proveedor tiene 10 días hábiles para revisar el Scorecard, aceptarlo o presentar observaciones
+documentadas. Las discrepancias en datos se resuelven con el respaldo del ERP corporativo, que
+es la fuente oficial de información.
+---
+10.4 Consecuencias por Bajo Desempeño
+Nivel de Desempeño Puntuación Global Consecuencia
+Sobresaliente ≥ 95 puntos Candidato a promoción de
+categoría en revisión semestral
+Satisfactorio 85 – 94 puntos Relación comercial continúa sin
+cambios
+En observación 70 – 84 puntos Reunión obligatoria con Comprador
+y Gerente para análisis; plan de
+mejora a 60 días
+Crítico 60 – 69 puntos Reducción del 30% del volumen de
+OC; plan de mejora formal a 30 días
+con seguimiento semanal
+Inaceptable < 60 puntos Inicio de proceso de suspensión
+(ver Sección 11)
+
+---
+
+SECCIÓN 11 — POLÍTICA DE EXCLUSIÓN Y SUSPENSIÓN DE
+PROVEEDORES
+Mercado Central 24h mantiene altos estándares de desempeño y ética en su cadena de
+suministro. La suspensión o exclusión de un proveedor es una medida de último recurso que
+se aplica únicamente cuando se han agotado las instancias de mejora o cuando la gravedad de
+la falta así lo exige.
+11.1 Causas de Suspensión Temporal
+La suspensión temporal implica la congelación de nuevas órdenes de compra durante un
+período definido (mínimo 30 días, máximo 180 días), mientras el proveedor corrige las
+deficiencias identificadas:
+• Dos evaluaciones de desempeño consecutivas con puntuación global inferior a 70 puntos.
+• Incumplimiento documentado de tres o más entregas en un período de 60 días.
+• Detección de problemas sanitarios o de inocuidad en productos del proveedor (incluso si no
+ha causado incidentes con consumidores).
+• Pérdida o vencimiento de alguna certificación obligatoria (COFEPRIS, SENASICA, BPM) sin
+notificación oportuna a Mercado Central 24h.
+• Uso de subcontratistas o proveedores secundarios no declarados que comprometan la
+trazabilidad del producto.
+• Incumplimiento del contrato marco en términos comerciales, sin que llegue a constituir
+fraude.
+---
+11.2 Causas de Exclusión Definitiva
+La exclusión definitiva implica la terminación inmediata de la relación comercial, la
+inhabilitación del proveedor en el sistema ERP y la imposibilidad de reincorporación futura:
+• Fraude documentado: Alteración de documentos fiscales, falsificación de certificados
+sanitarios o declaraciones falsas en el proceso de alta.
+• Adulteración de productos: Modificación deliberada de la composición, el peso o la fecha
+de caducidad de productos entregados a Mercado Central 24h.
+• Soborno a colaboradores: Ofrecimiento o entrega de beneficios económicos, regalos de
+valor o cualquier otra dádiva a empleados de Mercado Central 24h con el fin de obtener
+ventajas comerciales.
+• Violación grave del Código de Ética: Trabajo infantil comprobado, trabajo forzoso,
+discriminación sistemática o conductas que violen los derechos humanos de los
+trabajadores del proveedor.
+
+---
+
+• Reincidencia tras suspensión: Proveedor que haya superado el proceso de suspensión
+temporal y reincide en las mismas causas dentro de los 12 meses siguientes.
+• Daño a la reputación: Acciones del proveedor que generen daño comprobable a la imagen
+pública de Mercado Central 24h.
+---
+11.3 Proceso de Notificación y Período de Apelación
+1. El área de Compras emite una Notificación de Suspensión o Exclusión por escrito, con los
+fundamentos específicos de la decisión, firmada por el Director de Compras.
+2. En caso de suspensión temporal, el proveedor tiene 10 días hábiles para presentar un plan
+de acción correctivo ante el Comité de Compras. Si el plan es aprobado, la suspensión puede
+reducirse o condicionarse al cumplimiento del plan.
+3. En caso de exclusión definitiva, el proveedor tiene 5 días hábiles para presentar una
+apelación documentada. La apelación es revisada por el Director General y el Director Jurídico.
+Su resolución es definitiva e inapelable.
+4. Las obligaciones de pago por mercancía ya recibida y aceptada se mantienen vigentes
+independientemente del proceso de suspensión o exclusión.
+SECCIÓN 12 — CÓDIGO DE ÉTICA PARA PROVEEDORES
+12.1 Declaración de Valores Compartidos
+Mercado Central 24h construye su cadena de suministro sobre la base de una responsabilidad 
+compartida. Los valores que guían nuestra operación interna también son exigibles a nuestros 
+socios comerciales: integridad, respeto, responsabilidad ambiental y compromiso con las 
+personas. Al firmar el contrato marco, el proveedor declara conocer y aceptar este Código de 
+Ética en su totalidad.
+---
+12.2 Prohibición de Trabajo Infantil o Forzoso
+Mercado Central 24h tiene tolerancia cero con cualquier forma de trabajo infantil o forzoso en
+las cadenas de producción de sus proveedores. Los proveedores se comprometen a:
+• No emplear a personas menores de 15 años en ningún proceso productivo relacionado con
+los productos suministrados a Mercado Central 24h.
+• Garantizar que los trabajadores menores de 18 años no realicen trabajos peligrosos,
+nocturnos o que interfieran con su educación.
+• No utilizar trabajo forzoso, trabajo bajo amenaza o cualquier forma de servidumbre laboral.
+
+---
+
+• Permitir que Mercado Central 24h o un auditor externo independiente verifique el
+cumplimiento de este punto mediante visitas a instalaciones con aviso previo de 24 horas.
+12.3 Condiciones Laborales Dignas
+Los proveedores deben garantizar que sus trabajadores cuenten con:
+• Salario igual o superior al mínimo legal vigente en su zona geográfica, pagado puntualmente.
+• Jornadas laborales dentro de los límites establecidos por la legislación laboral aplicable.
+• Condiciones de seguridad e higiene en el trabajo conforme a las normas oficiales
+(NOM-030-STPS y las aplicables a su giro).
+• Libertad de asociación y negociación colectiva conforme a la ley.
+• Trato digno y no discriminatorio independientemente de género, origen étnico, religión,
+preferencia sexual o condición de salud.
+---
+12.4 Política Ambiental
+Los proveedores de Mercado Central 24h asumen el compromiso de:
+• Cumplir con toda la legislación ambiental aplicable en su país de operación.
+• Implementar prácticas de reducción de emisiones de gases de efecto invernadero en sus
+procesos productivos y logísticos.
+• Priorizar el uso de empaques reciclables, biodegradables o con porcentaje de material
+reciclado post-consumo.
+• Gestionar adecuadamente sus residuos, evitando su disposición en sitios no autorizados.
+• Reportar a Mercado Central 24h cualquier incidente ambiental grave relacionado con la
+producción de los bienes suministrados dentro de las 24 horas de su ocurrencia.
+---
+12.5 Política Anticorrupción y Anti-Soborno
+Conforme a la Ley General del Sistema Nacional Anticorrupción (LGSNA) y a las mejores
+prácticas internacionales, los proveedores se comprometen a:
+• No ofrecer, prometer, dar o autorizar el pago de dinero, regalos, viajes, entretenimiento u
+otro beneficio de valor a ningún empleado de Mercado Central 24h con el propósito de
+obtener, mantener o incrementar negocio.
+• No facilitar pagos a funcionarios públicos para agilizar trámites relacionados con los
+productos suministrados a Mercado Central 24h.
+• Implementar controles internos razonables para prevenir actos de corrupción en sus propias
+organizaciones.
+
+---
+
+• Reportar de manera anónima a través de la Línea Ética de Mercado Central 24h cualquier
+solicitud de soborno o comportamiento indebido por parte de empleados de la empresa.
+Línea Ética Mercado Central 24h:
+• Teléfono: 800-MCentral (800-623-6872), disponible las 24 horas.
+• Correo electrónico: etica@mercadocentral24h.com.mx
+• Portal en línea: etica.mercadocentral24h.com (garantiza anonimato).
+---
+12.6 Confidencialidad de la Información Comercial
+Toda información que Mercado Central 24h comparta con sus proveedores (precios,
+volúmenes, estrategias comerciales, datos de clientes, tecnología o procesos propietarios) es
+estrictamente confidencial. El proveedor se compromete a:
+• No divulgar dicha información a terceros sin autorización escrita previa.
+• Utilizarla exclusivamente para los fines de la relación comercial.
+• Implementar medidas de seguridad razonables para proteger la información recibida.
+• Devolver o destruir la información confidencial al término de la relación comercial.
+El incumplimiento de esta cláusula podrá dar lugar a acciones legales por daños y perjuicios 
+conforme a la legislación aplicable.
+---
+SECCIÓN 13 — CONTACTOS DEL EQUIPO DE COMPRAS POR
+CATEGORÍA
+Para agilizar la comunicación y garantizar que cada proveedor reciba atención especializada,
+el equipo de Compras y Abastecimiento está organizado por categorías. Los proveedores
+deben dirigirse exclusivamente al Comprador asignado a su categoría para temas comerciales,
+de OC y de desempeño.
+Categoría Comprador Responsable Correo Electrónico
+Institucional
+Extensión Telefónica
+Abarrotes y Bebidas No
+Alcohólicas
+Lic. Mariana Solís Vargas m.solis@mercadocentral
+24h.com.mx
+Ext. 2101
+Bebidas Alcohólicas Lic. Carlos Mendoza
+Peña
+c.mendoza@mercadocen
+tral24h.com.mx
+Ext. 2102
+Frutas y Verduras
+Frescas
+Ing. Sofía Ramírez Torres s.ramirez@mercadocentr
+al24h.com.mx
+Ext. 2201
+Lácteos y Refrigerados Lic. Andrés Fuentes
+Garza
+a.fuentes@mercadocentr
+al24h.com.mx
+Ext. 2202
+
+---
+
+Carnes, Embutidos y
+Mariscos
+MVZ. Patricia Lozano
+Cruz
+p.lozano@mercadocentra
+l24h.com.mx
+Ext. 2203
+Panadería, Tortillería y
+Pastelería
+Lic. Héctor Villanueva
+Ríos
+h.villanueva@mercadoce
+ntral24h.com.mx
+Ext. 2204
+Limpieza e Higiene del
+Hogar
+Lic. Daniela Castillo Mora d.castillo@mercadocentr
+al24h.com.mx
+Ext. 2301
+Higiene Personal y
+Cuidado Corporal
+Lic. Jorge Espinoza Nava j.espinoza@mercadocent
+ral24h.com.mx
+Ext. 2302
+Electrónica, Bazar y
+Temporadas
+Lic. Valeria Ochoa Reyes v.ochoa@mercadocentral
+24h.com.mx
+Ext. 2401
+Textil, Calzado y
+Accesorios
+Lic. Roberto Salinas
+Méndez
+r.salinas@mercadocentra
+l24h.com.mx
+Ext. 2402
+Compras Internacionales
+(Importaciones)
+Lic. Fernanda Guzmán
+Lagos
+f.guzman@mercadocentr
+al24h.com.mx
+Ext. 2501
+Proveedores de Servicios
+(Indirectos)
+Lic. Alejandro Herrera
+Blanco
+a.herrera@mercadocentr
+al24h.com.mx
+Ext. 2601
+Nuevos Proveedores /
+Alta de Proveedores
+Coordinación de
+Desarrollo de
+Proveedores
+altas.proveedores@merc
+adocentral24h.com.mx
+Ext. 2001
+---
+13.1 Línea de Compras de Emergencia (Disponible 24 horas)
+Para situaciones urgentes relacionadas con entregas, desabasto crítico o incidentes en el
+proceso de recepción fuera del horario de oficina:
+• Teléfono de Emergencias Compras: 55-1234-5678 (disponible los 365 días del año, las 24
+horas)
+• WhatsApp Institucional Emergencias: 55-8765-4321 (solo para gerentes de tienda y
+Compradores autorizados)
+---
+13.2 Cuentas por Pagar — Consulta de Estado de Factura
+Para consultas sobre el estado de pago de facturas, el proveedor debe utilizar exclusivamente
+el portal de proveedores o contactar al área de Cuentas por Pagar:
+• Portal de proveedores: proveedores.mercadocentral24h.com (consulta en línea disponible
+24/7)
+• Correo electrónico Cuentas por Pagar: pagos.proveedores@mercadocentral24h.com.mx
+• Extensión telefónica: Ext. 3001 / 3002 (horario de atención: lunes a viernes de 09:00 a
+17:00 horas)
+---
+
+---
+
+SECCIÓN 14 — DISPOSICIONES FINALES Y VIGENCIA
+14.1 Vigencia del Manual
+El presente manual entra en vigor a partir del 16 de junio de 2026 y permanecerá vigente hasta
+que sea sustituido por una versión posterior debidamente autorizada. La vigencia no está
+vinculada al año calendario; el manual permanece activo hasta la publicación formal de una
+nueva versión.
+---
+14.2 Proceso de Actualización y Consulta
+El manual será revisado y actualizado cuando se presenten cualquiera de las siguientes 
+condiciones:
+• Cambios en la legislación fiscal, sanitaria, laboral o ambiental aplicable en México o en los
+países de operación de Mercado Central 24h.
+• Cambios significativos en la estrategia comercial o en la estructura organizacional del área
+de Compras.
+• Detección de vacíos normativos que generen ambigüedad en la relación con proveedores.
+• Solicitud formal de al menos tres proveedores Categoría A sobre aspectos específicos del
+manual.
+• Con periodicidad máxima de dos años, independientemente de si ocurren los supuestos
+anteriores.
+La versión vigente del manual estará siempre disponible en el portal de proveedores. Los
+proveedores son responsables de consultarlo periódicamente y de asegurarse de que su
+equipo comercial, logístico y de calidad lo conozca.
+---
+14.3 Firma de Aceptación del Proveedor
+Al completar el proceso de alta descrito en la Sección 4 y firmar el Contrato Marco de
+Proveeduría, el proveedor declara haber leído, comprendido y aceptado en su totalidad el
+contenido de este manual, incluyendo todas sus secciones y los documentos a los que hace
+referencia.
+Este manual forma parte integrante del Contrato Marco de Proveeduría como Anexo Normativo
+Obligatorio y tiene la misma fuerza jurídica que el contrato principal en los aspectos que regula.
+---
+14.4 Resolución de Controversias
+Ante cualquier controversia derivada de la interpretación o aplicación del presente manual:
+
+---
+
+1. Primera instancia: El Comprador de Categoría y el representante del proveedor buscarán una
+solución negociada en un plazo máximo de 10 días hábiles.
+2. Segunda instancia: Si no hay acuerdo, el caso escala al Gerente de Categoría y al Gerente
+Comercial del proveedor, con un plazo adicional de 10 días hábiles.
+3. Tercera instancia: Si persiste el desacuerdo, el Comité de Compras emite una resolución
+definitiva interna.
+4. Instancia legal: En caso de que ninguna de las instancias anteriores resuelva la
+controversia, las partes se someterán a la jurisdicción y competencia de los Tribunales del
+fuero común de la Ciudad de México, renunciando expresamente a cualquier otro fuero que
+pudiera corresponderles por razón de su domicilio presente o futuro.
+---
+14.5 Historial de Versiones
+Versión Fecha de Emisión Descripción de
+Cambios
+Elaboró Autorizó
+1.0 15 de marzo de
+2022
+Versión inicial del
+manual. Alcance:
+Ciudad de México y
+Zona
+Metropolitana.
+Gerencia de
+Compras
+Dirección General
+2.0 16 de junio de 2024 Actualización para
+expansión nacional.
+Inclusión de
+requisitos
+SENASICA,
+actualización a
+CFDI 4.0, nuevo
+modelo de KPIs.
+Localización
+México.
+Dirección de
+Compras y
+Abastecimiento
+Dirección General y
+Dirección Jurídica
+3.0 16 de junio de 2026 Expansión
+completa del
+manual para
+alcance LATAM.
+Desarrollo de 14
+secciones,
+inclusión de Código
+de Ética, proceso
+de alta detallado,
+clasificación A/B/C,
+política de
+devoluciones
+diferidas, contactos
+por categoría y
+Línea Ética 24h.
+Dirección de
+Compras y
+Abastecimiento
+Dirección General y
+Comité Directivo
+---
+Al pie de las instalaciones de Mercado Central 24h, cada anaquel surtido es el resultado del
+trabajo conjunto de cientos de proveedores comprometidos. Este manual es nuestro pacto de
+trabajo: claro, justo y orientado al crecimiento compartido.
+
+---
+
+---
+Mercado Central 24h — Calidad y Frescura Siempre.
+Documento aprobado por la Dirección General y la Dirección de Compras y Abastecimiento.
+Para consultas sobre este manual: altas.proveedores@mercadocentral24h.com.mx | Ext. 2001

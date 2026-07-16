@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mercado Central 24h — Asistente Virtual</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="chat-app">
+    <header class="chat-header">
+      <div class="avatar">MC</div>
+      <div class="header-text">
+        <h1>Mercado Central 24h</h1>
+        <p>Asistente Virtual · Políticas &amp; Inventario</p>
+      </div>
+      <div id="tools-badge" class="tools-badge">cargando…</div>
+    </header>
+
+    <main id="chat-window" class="chat-window">
+      <div class="message agent">
+        <div class="bubble">
+          Hola, soy el asistente virtual de <strong>Mercado Central 24h</strong>.
+          Puedo responder preguntas sobre nuestras políticas (proveedores, atención
+          al cliente, devoluciones, reglamento interno, FAQ) y sobre el inventario
+          de productos (stock, precios, vencimientos, proveedores, márgenes).
+          <div class="hint">
+            Prueba, por ejemplo: «¿Qué productos tienen el stock por debajo del mínimo?»
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <form id="chat-form" class="chat-form">
+      <input
+        id="chat-input"
+        type="text"
+        autocomplete="off"
+        placeholder="Escribe tu pregunta sobre políticas o inventario…"
+      />
+      <button type="submit" id="send-btn">Enviar</button>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='chat.js') }}"></script>
+</body>
+</html>

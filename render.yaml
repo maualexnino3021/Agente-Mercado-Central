@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: agente-mercado-central
+    runtime: python
+    plan: free
+    region: oregon
+    branch: main
+    buildCommand: pip install -r requirements.txt && python -m src.ingest
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120
+    healthCheckPath: /api/health
+    envVars:
+      # Selecciona el proveedor del LLM de chat: "openai" (por defecto) o "anthropic"
+      # (los embeddings del RAG SIEMPRE usan la API de OpenAI, ver README).
+      - key: LLM_PROVIDER
+        value: openai
+      # --- OpenAI (usado para el LLM de chat y siempre para los embeddings) ---
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini
+      - key: OPENAI_EMBEDDING_MODEL
+        value: text-embedding-3-small
+      # --- Anthropic (opcional, solo si LLM_PROVIDER=anthropic) ---
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ANTHROPIC_MODEL
+        value: claude-sonnet-5
+      # --- Parámetros de chunking / retrieval ---
+      - key: CHUNK_SIZE
+        value: "1000"
+      - key: CHUNK_OVERLAP
+        value: "150"
+      - key: RETRIEVER_TOP_K
+        value: "4"
+      # --- Parámetros de negocio ---
+      - key: DIAS_ALERTA_VENCIMIENTO
+        value: "30"
+      - key: PYTHON_VERSION
+        value: 3.11.9
