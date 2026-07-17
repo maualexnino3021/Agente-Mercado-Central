@@ -27,6 +27,7 @@ LangChain**, expuesto como aplicación web con **Flask** y desplegado en
     - [Opción A — Usando el Blueprint (`render.yaml`), recomendada](#opción-a--usando-el-blueprint-renderyaml-recomendada)
     - [Opción B — Configuración manual desde el Dashboard](#opción-b--configuración-manual-desde-el-dashboard)
   - [Ejemplos de preguntas y respuestas](#ejemplos-de-preguntas-y-respuestas)
+    - [Capturas de la interacción con el agente](#capturas-de-la-interacción-con-el-agente)
   - [Pruebas](#pruebas)
   - [Licencia y uso](#licencia-y-uso)
 
@@ -283,6 +284,31 @@ python -m src.main
 **Fuera del alcance del agente:**
 > *"¿Cuál es la capital de Francia?"* → el agente indica que no tiene esa
 > información en sus fuentes, en vez de inventar una respuesta.
+
+### Capturas de la interacción con el agente
+
+**1. Consultas sobre inventario y manejo de preguntas fuera de alcance**
+
+El agente distingue correctamente entre preguntas que puede responder
+(inventario) y preguntas fuera de su dominio (por ejemplo, resultados
+deportivos), evitando inventar información en ambos casos.
+
+![Interacción con el agente: inventario y preguntas fuera de alcance](docs/interaccion-1.png)
+
+**2. Consulta sobre políticas de devolución (RAG)**
+
+El agente responde citando el contenido real de las políticas de atención
+al cliente, detallando plazos y condiciones por categoría de producto.
+
+![Interacción con el agente: consulta de políticas de devolución](docs/interaccion-2.png)
+
+**3. Combinando ambas fuentes en una sola respuesta**
+
+Ejemplo de una pregunta que requiere tanto la política de devoluciones
+(RAG) como el stock disponible (herramientas de inventario), combinadas
+automáticamente en una única respuesta.
+
+![Interacción con el agente: combinando políticas e inventario](docs/interaccion-3.png)
 
 ---
 
